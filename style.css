@@ -1,0 +1,25 @@
+body {
+    align-items: center;
+    font-family: 'Lucida Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    font-size: 16px;
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+}
+
+img {
+    margin: 20px;
+}
+
+#buttonStyle {
+    width: 70vw;
+    display: flex; 
+    align-self: center;
+    justify-content: space-between;
+    text-align: center;
+}
