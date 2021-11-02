@@ -1,11 +1,12 @@
 body {
     align-items: center;
-    font-family: 'Lucida Sans', sans-serif;
+    font-family: "Trebuchet MS", arial;
     display: flex;
     flex-direction: column;
 }
 
 button {
+    font-family: "Trebuchet MS", arial;
     font-size: 16px;
     width: 100px;
     height: 50px;
